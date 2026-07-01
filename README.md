@@ -1,4 +1,4 @@
-<h3 data-importer="text" align="center">Hi 👋, I'm Shatha Zyadeh<br>Computer Engineering Graduate 💻 | React Frontend Developer ⚙️</h3>
+<h3 data-importer="text" align="center">Hi 👋, I'm Shatha Zyadeh🌻<br>Computer Engineering Graduate 💻 | React Frontend Developer ⚙️</h3>
 
 <p data-importer="text" align="left">_________________________________________________________________________________________________________________________________________________</p>
 <h4 data-importer="text" align="left">                💫 About Me :</h4>
