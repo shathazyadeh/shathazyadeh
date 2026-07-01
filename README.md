@@ -3,7 +3,7 @@
 <p data-importer="text" align="center">__________________________________________________________________________________________________________________________________________</p>
 
 
-<h4 data-importer="text" align="left">💫 About Me :</h4>
+<h4 data-importer="text" align="left">                💫 About Me :</h4>
 
 
 <p data-importer="text" align="left">- Frontend-focused developer.<br>- Always learning and building real-world projects.<br>- Open to collaborate on Open Source Projects.</p>
