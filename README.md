@@ -1,21 +1,19 @@
-<h3 data-importer="text" align="center">Hi 👋, I'm Shatha Zyadeh<br>Computer Engineering Graduate 💻 | Frontend Developer ⚙️</h3>
+<h3 data-importer="text" align="center">Hi 👋, I'm Shatha Zyadeh<br>Computer Engineering Graduate 💻 |React Frontend Developer ⚙️</h3>
 
 ###
 
-<p data-importer="text" align="left">_________________________________________________________________________________________________________________________________________________</p>
-
+<p data-importer="text" align="center">__________________________________________________________________________________________________________________________________________</p>
 ###
 
 <h4 data-importer="text" align="left">💫 About Me :</h4>
 
 ###
 
-<p data-importer="text" align="left">-React Frontend-focused developer.<br>- Always learning and building real-world projects.<br>- Open to collaborate on Open Source Projects.</p>
+<p data-importer="text" align="left">- Frontend-focused developer.<br>- Always learning and building real-world projects.<br>- Open to collaborate on Open Source Projects.</p>
 
 ###
 
-<p data-importer="text" align="left">_________________________________________________________________________________________________________________________________________________</p>
-
+<p data-importer="text" align="center">__________________________________________________________________________________________________________________________________________</p>
 ###
 
 <h4 data-importer="text" align="left">Languages & Tools :</h4>
@@ -46,7 +44,7 @@
 
 ###
 
-<p data-importer="text" align="center">____________________________________________________________________________________________________________________________________</p>
+<p data-importer="text" align="center">__________________________________________________________________________________________________________________________________________</p>
 
 ###
 
@@ -65,7 +63,7 @@
 
 ###
 
-<p data-importer="text" align="center">______________________________________________________________</p>
+<p data-importer="text" align="center">________________________________________________________________________________</p>
 
 ###
 
