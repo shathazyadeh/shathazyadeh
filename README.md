@@ -4,7 +4,8 @@
 <h4 data-importer="text" align="left">                💫 About Me :</h4>
 
 
-<p data-importer="text" align="left">- Frontend-focused developer.<br>- Always learning and building real-world projects.<br>- Open to collaborate on Open Source Projects.</p>
+<p data-importer="text" align="left">- Frontend-focused developer.<br>- Interested in building responsive, accessible & user-friendly interfaces.<br>
+  - Always learning and building real-world projects.<br>- Open to collaborate on Open Source Projects.</p>
 
 
 <p data-importer="text" align="left">_________________________________________________________________________________________________________________________________________________</p>
