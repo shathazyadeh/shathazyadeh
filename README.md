@@ -9,7 +9,7 @@
 <p data-importer="text" align="left">- Frontend-focused developer.<br>- Always learning and building real-world projects.<br>- Open to collaborate on Open Source Projects.</p>
 
 
-<p data-importer="text" align="center">_________________________________________________</p>
+<p data-importer="text" align="left">_________________________________________________</p>
 
 
 <h4 data-importer="text" align="left">Languages & Tools :</h4>
@@ -38,7 +38,7 @@
 </div>
 
 
-<p data-importer="text" align="center">_________________________________________________</p>
+<p data-importer="text" align="left">_________________________________________________</p>
 
 
 <h4 data-importer="text" align="left">Connect with Me :</h4>
