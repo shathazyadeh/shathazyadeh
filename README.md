@@ -1,24 +1,19 @@
 <h3 data-importer="text" align="center">Hi 👋, I'm Shatha Zyadeh<br>Computer Engineering Graduate 💻 |React Frontend Developer ⚙️</h3>
 
-###
-
 <p data-importer="text" align="center">__________________________________________________________________________________________________________________________________________</p>
-###
+
 
 <h4 data-importer="text" align="left">💫 About Me :</h4>
 
-###
 
 <p data-importer="text" align="left">- Frontend-focused developer.<br>- Always learning and building real-world projects.<br>- Open to collaborate on Open Source Projects.</p>
 
-###
 
 <p data-importer="text" align="center">__________________________________________________________________________________________________________________________________________</p>
-###
+
 
 <h4 data-importer="text" align="left">Languages & Tools :</h4>
 
-###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -42,14 +37,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
 
 <p data-importer="text" align="center">__________________________________________________________________________________________________________________________________________</p>
-###
+
 
 <h4 data-importer="text" align="left">Connect with Me :</h4>
 
-###
 
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/shatha-zyadeh-5185243b1/" target="_blank">
@@ -60,12 +53,11 @@
   </a>
 </div>
 
-###
+
 
 <p data-importer="text" align="center">____________________________________________________________________________________________</p>
 
-###
 
 <p data-importer="text" align="center">💕 “سُبْحَانَ اللَّهِ وَبِحَمْدِهِ ، سُبْحَانَ اللَّهِ الْعَظِيمِ” 💕</p>
 
-###
+
