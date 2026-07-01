@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">- Frontend-focused developer.<br>- Always learning and building real-world projects.<br>- Open to collaborate on Open Source Projects.</p>
+<p data-importer="text" align="left">-React Frontend-focused developer.<br>- Always learning and building real-world projects.<br>- Open to collaborate on Open Source Projects.</p>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<p data-importer="text" align="left">_________________________________________________________________________________________________________________________________________________</p>
+<p data-importer="text" align="center">____________________________________________________________________________________________________________________________________</p>
 
 ###
 
@@ -65,7 +65,7 @@
 
 ###
 
-<p data-importer="text" align="center">_________________________________________________________________________________________________________________________________________________</p>
+<p data-importer="text" align="center">______________________________________________________________</p>
 
 ###
 
