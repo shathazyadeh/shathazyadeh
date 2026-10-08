@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Hi, I'm Shatha Zyadeh🌻<br> </h1>
+<h2 data-importer="text" align="center">Hi, I'm Shatha Zyadeh🌻<br> </h2>
 <h3 align="center">Computer Engineering Graduate | React Frontend Developer</h3>
 
 <p data-importer="text" align="left">_________________________________________________________________________________________________________________________________________________</p>
@@ -54,7 +54,7 @@
 
 
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 
 <p data-importer="text" align="center">💕 سُبْحَانَ اللَّهِ وَبِحَمْدِهِ ، سُبْحَانَ اللَّهِ الْعَظِيمِ 💕</p>
